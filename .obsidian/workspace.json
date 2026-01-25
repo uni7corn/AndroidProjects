@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "安卓底层改机分析蓝队 · 半年系统学习路线.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OnePlus10维护LineageOS.md",
+                "file": "Phase_1/Day11：SystemServer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OnePlus10维护LineageOS"
+              "title": "Day11：SystemServer"
             }
           }
         ],
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OnePlus10维护LineageOS.md",
+                "file": "Phase_1/Day11：SystemServer.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "OnePlus10维护LineageOS 的大纲"
+              "title": "Day11：SystemServer 的大纲"
             }
           }
         ],
@@ -202,9 +202,12 @@
   },
   "active": "432be6ae145bf886",
   "lastOpenFiles": [
+    "安卓底层改机分析蓝队 · 半年系统学习路线.md",
+    "Phase_1/Day11：SystemServer.md",
+    "Phase_1/Day10：SELinux.md",
+    "Phase_1/未命名",
     "Phase_1/Day9：UID、GID.md",
     "OnePlus10维护LineageOS.md",
-    "安卓底层改机分析蓝队 · 半年系统学习路线.md",
     "Phase_1/Day8：Zygote fork 机制.md",
     "Phase_1/安卓启动图.ex",
     "Phase_1/Day5：启动参数.md",
