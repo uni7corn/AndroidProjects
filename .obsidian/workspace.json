@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "774be38cc5c96bb2",
+    "type": "split",
+    "children": [
+      {
+        "id": "7883ea1d86ee3e76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c869bbc42f45206",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "安卓底层改机分析蓝队 · 半年系统学习路线.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "安卓底层改机分析蓝队 · 半年系统学习路线"
+            }
+          },
+          {
+            "id": "432be6ae145bf886",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OnePlus10维护LineageOS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OnePlus10维护LineageOS"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cc38c9775951b2e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "52a5ce835c8ac5b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b5a59eef5ca5b9a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "a0668a53dd933ddf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "c9100c4c8e638a1d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 327.5
+  },
+  "right": {
+    "id": "bb40d965a28fb74d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed2d2f8386dec985",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e84eef1b5622840d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_1/TODO.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "TODO 的反向链接列表"
+            }
+          },
+          {
+            "id": "58513bdcce3291ff",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_1/TODO.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "TODO 的出链列表"
+            }
+          },
+          {
+            "id": "7aaa799eb2f63e76",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "6f152f4aa1e33ecf",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "2b37e07ea5465f54",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "OnePlus10维护LineageOS.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "OnePlus10维护LineageOS 的大纲"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 412.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:新建数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "excalidraw-cn:Create New Excalidraw File": false,
+      "formatto-format:Format Document": false
+    }
+  },
+  "active": "432be6ae145bf886",
+  "lastOpenFiles": [
+    "Phase_1/Day9：UID、GID.md",
+    "OnePlus10维护LineageOS.md",
+    "安卓底层改机分析蓝队 · 半年系统学习路线.md",
+    "Phase_1/Day8：Zygote fork 机制.md",
+    "Phase_1/安卓启动图.ex",
+    "Phase_1/Day5：启动参数.md",
+    "Phase_1/Day2：init 进程.md",
+    "Phase_1/Day1：整体启动认知.md",
+    "Phase_1/Day4：AVB、dm-verity.md",
+    "Phase_1/Day3：Zygote.md",
+    "2026-01-24.md",
+    "未命名.canvas",
+    "Phase_1",
+    "excalidraw 26-01-24 03.31.14.ex",
+    "安卓底层改机分析蓝队_半年学习路线.md",
+    "毕业检验项目：android_攻防蓝队系统化实战.md",
+    "未命名.base"
+  ]
+}
