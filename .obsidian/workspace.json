@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Phase_1/Day11：SystemServer.md",
+                "file": "Phase_1/Day8：Zygote fork 机制.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day11：SystemServer"
+              "title": "Day8：Zygote fork 机制"
             }
           }
         ],
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5
+    "width": 366.5
   },
   "right": {
     "id": "bb40d965a28fb74d",
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Phase_1/Day11：SystemServer.md",
+                "file": "Phase_1/Day8：Zygote fork 机制.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Day11：SystemServer 的大纲"
+              "title": "Day8：Zygote fork 机制 的大纲"
             }
           }
         ],
@@ -202,8 +202,8 @@
   },
   "active": "432be6ae145bf886",
   "lastOpenFiles": [
-    "安卓底层改机分析蓝队 · 半年系统学习路线.md",
     "Phase_1/Day11：SystemServer.md",
+    "安卓底层改机分析蓝队 · 半年系统学习路线.md",
     "Phase_1/Day10：SELinux.md",
     "Phase_1/未命名",
     "Phase_1/Day9：UID、GID.md",
