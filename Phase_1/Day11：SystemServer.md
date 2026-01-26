@@ -12,8 +12,8 @@
 
 从启动形式上看，SystemServer 并没有任何"特权式"的入口设计：
 
-- 同样由 Zygote 通过 `fork` 创建\
-- 同样进入 `RuntimeInit` 完成 Java 运行时初始化\
+- 同样由 Zygote 通过 `fork` 创建
+- 同样进入 `RuntimeInit` 完成 Java 运行时初始化
 - 最终同样通过 `findStaticMain`，调用一个静态 `main()` 方法
 
 从**进程创建模型**的角度来看，SystemServer 与普通 App 进程是同构的。
@@ -26,12 +26,12 @@
 
 在 SystemServer fork 之前，Android 用户态中：
 
-- 尚不存在 ActivityManagerService\
-- 尚不存在 PackageManagerService\
-- 尚不存在 WindowManagerService\
+- 尚不存在 ActivityManagerService
+- 尚不存在 PackageManagerService
+- 尚不存在 WindowManagerService
 - Binder 机制已就绪，但 Framework 级服务尚未注册
 
-SystemServer 是 **第一个真正进入 Android Framework 语义的进程**。\
+SystemServer 是 **第一个真正进入 Android Framework 语义的进程**
 它的启动，标志着系统从"运行时准备阶段"进入"服务自举阶段"。
 
 从这个意义上看，SystemServer 是：
@@ -365,8 +365,8 @@ protected static Runnable applicationInit(int targetSdkVersion, long[] disabledC
 
 SystemServer 的特殊性不在于：
 
-- 启动方式\
-- 入口函数\
+- 启动方式
+- 入口函数
 - 进程模型
 
 而在于它承担了 Android Framework 的**自举职责**：
