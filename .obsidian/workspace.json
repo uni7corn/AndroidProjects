@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "安卓底层改机分析蓝队 · 半年系统学习路线.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 366.5
+    "width": 410.5
   },
   "right": {
     "id": "bb40d965a28fb74d",
@@ -169,7 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 412.5
+    "width": 378.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,8 +186,10 @@
   },
   "active": "432be6ae145bf886",
   "lastOpenFiles": [
-    "Phase_1/Day15：ART 总览.md",
+    "毕业检验项目：android_攻防蓝队系统化实战.md",
+    "Phase_1/Day16：dex文件解析.md",
     "安卓底层改机分析蓝队 · 半年系统学习路线.md",
+    "Phase_1/Day15：ART 总览.md",
     "Phase_1/Day12：Binder IPC.md",
     "Phase_1/安卓启动图.ex",
     "Phase_1/Day11：SystemServer.md",
@@ -206,7 +208,6 @@
     "Phase_1",
     "excalidraw 26-01-24 03.31.14.ex",
     "安卓底层改机分析蓝队_半年学习路线.md",
-    "毕业检验项目：android_攻防蓝队系统化实战.md",
     "未命名.base"
   ]
 }
